@@ -1,2 +1,6 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=groovykiwi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groovykiwi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# groovykiwi
+<a href="https://linkedin.com/in/nathan-houlamy"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+## Projects
+- <a href="https://github.com/groovykiwi/bitcl">Bitcl</a>
+- <a href="https://github.com/groovykiwi/cm-rgb-gui">cm-rgb-gui</a>
