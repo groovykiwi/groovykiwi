@@ -8,7 +8,7 @@
 - **Repository**: [Github](https://github.com/groovykiwi/whatsuni-mockup)
 - **Demo**: [Hosted Version](https://whatsuni-mockup.vercel.app/login)
 
-### BitCL
+### bitcl
 - **Description**: A website that allows for the conversion of binary and denary float with step by step calculations. As well as the conversion to hexadecimal, denary and binary.
 - **Repository**: [Github](https://github.com/groovykiwi/bitcl)
 - **Demo**: [Hosted Version](https://groovykiwi.github.io/bitcl/)
