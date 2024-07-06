@@ -20,4 +20,6 @@
 
 ### passwd-utils
 - **Description**: CLI Python script that checks if a password has been breached against the "Have I been Pwnd" API.
-- **Repository**: [Github](https://github.com/groovykiwi/passwd-utils)
+- **Repository**: [Github](https://github.com/groovykiwi/passwd-utils)  
+ 
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/nathvnh.png)
