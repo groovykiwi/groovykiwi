@@ -10,7 +10,7 @@
 - **Key Features**: Offers extensive colorization settings, supports a variety of pre-built themes, and provides a real-time preview
 - **Tech Stack**: Built with Next.js and the browser's Canvas API for local image processing with Lab color space calculations.
 - **Focus**: Empowers users to personalize their wallpapers without relying on cloud processing.
-- **Website**: [WallRice.xyz](https://wallrice.xyz)
+- **Website**: [WallRice.xyz](https://wallrice.xyz) - [Github](https://github.com/groovykiwi/wallrice)
 
 <img src="/wallrice.jpg" alt="Description" width="300" height="auto">
 
